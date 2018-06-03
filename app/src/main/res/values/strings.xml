@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Movies Stage 1</string>
+  <string name="movie_image">Movie Image</string>
+  <string name="top_rated">Top Rated</string>
+  <string name="popular">Popular</string>
+  <string name="title">Title:</string>
+  <string name="description">Description:</string>
+  <string name="user_rating">User Rating:</string>
+  <string name="release_date">Release Date:</string>
+</resources>
