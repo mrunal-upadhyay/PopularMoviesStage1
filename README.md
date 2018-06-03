@@ -14,4 +14,4 @@
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](Demo.gif)
+![Video Walkthrough](demo.gif)
