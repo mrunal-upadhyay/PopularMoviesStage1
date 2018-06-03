@@ -1,4 +1,4 @@
-# PopularMovies Stage 1
+# Popular Movies Stage 1
 1. App is written solely in the Java Programming Language.
 2. Movies are displayed in the main layout via a grid of their corresponding movie poster thumbnails.
 3. UI contains an element (i.e a spinner or settings menu) to toggle the sort order of the movies by: most popular, highest rated.
