@@ -9,3 +9,9 @@
 8. When a movie poster thumbnail is selected, the movie details screen is launched.
 9. In a background thread, app queries the /movie/popular or /movie/top_rated API for the sort criteria specified in the settings menu.
 10. App conforms to common standards found in the Android Nanodegree General Project Guidelines (NOTE: For Stage 1 of the Popular Movies App, it is okay if the app does not restore the data using onSaveInstanceState/onRestoreInstanceState)
+
+# Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+![Video Walkthrough](demo.gif)
